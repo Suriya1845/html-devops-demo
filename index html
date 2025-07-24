@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Suriya DevOps Demo</title>
+</head>
+<body>
+  <h1>👋 Welcome Suriya!</h1>
+  <p>This is your live Azure Static Web App. 🚀</p>
+  <p>Hosted from GitHub using DevOps Automation!</p>
+</body>
+</html>
